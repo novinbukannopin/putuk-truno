@@ -57,7 +57,7 @@ const Footer = () => {
                 </div>
 
                 <div className={"border bg-gray-20"}/>
-                <p className={"regular-14 w-full text-center text-gray-30"}>2024 Novin | All right reserved</p>
+                <p className={"regular-14 w-full text-center text-gray-30"}>2024 Novin Imut | All right reserved</p>
             </div>
         </footer>
     )
